@@ -1,0 +1,6 @@
+Used different ML Models to train and test dataset
+#Model Accuracies
+Logistic Regression: 98.6%
+Decision Tree: 99.509%
+Gradient Boosting: 99.518%
+Random Forest: 98.92%
